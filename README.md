@@ -39,7 +39,7 @@ Mockup constructed using [WireframePro](https://mockflow.com/apps/wireframepro/)
 ## Contribute
 1. Ensure you have Python 3.7 installed
 2. Set up a virtual environment using pip: `python3 -m venv .`
-3. Clone github repository: `git clone https://github.com/julian-garcia/i-comic.git`
+3. Clone github repository: `git clone https://github.com/heltleo/comic.git`
 4. Run `python manage.py runserver` and the project will run on [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
 ## Testing
